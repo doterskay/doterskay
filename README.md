@@ -39,7 +39,7 @@
       </table>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://githubusercontent.com" width="260" alt="Anime C++" />
+      <img src="https://githubusercontent.com" width="270" alt="Anime C++" />
       <br/>
       <sub><i>Keep learning. Keep building.</i></sub>
     </td>
