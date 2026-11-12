@@ -32,8 +32,11 @@
 Студент «Информационные системы и программирование».  
 C++ · системное программирование.
 
-**Стек:** C++ · Python · C# · SQL · SQLite · Git · GitHub · Linux · Windows · VS Code · CMake
+**Стек:** C++ · Python · C# · SQL · SQLite · Git · GitHub · Linux · Windows · VS Code
+## Контакты
 
-**Изучаю:** ООП · алгоритмы · TCP · клиент-сервер · управление памятью
-
-**Цель:** серверное ПО на C++.
+| Платформа | Ссылка |
+|---|---|
+| Telegram | [@playboycatty](https://t.me/playboycatty) |
+| Discord | [@tripels](https://discord.com/users/tripels) |
+| GitHub | [doterskay](https://github.com/doterskay) |
