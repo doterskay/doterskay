@@ -1,107 +1,119 @@
-<!-- Анимированная шапка -->
+<!-- Неоновая шапка с градиентом -->
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
 
-<!-- Печатающаяся строка -->
+<!-- Живая печатающаяся строка -->
 <div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
+
+<!-- Бейджи статуса и просмотров -->
+<div align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://shields.io" alt="Focus" />
+  <img src="https://shields.io" alt="Status" />
 </div>
 
 <br/>
 
-### 👨‍💻 О себе (`about_me.cpp`)
+<!-- Блок "О себе" в стиле C++ кода -->
+### ⚡ `~/doterskay/about.cpp`
 
 ```cpp
-class Developer {
-public:
-    std::string nickname = "doterskay";
-    std::string education = "Информационные системы и программирование";
-    std::string focus = "Системное программирование и серверное ПО на C++";
-    
-    std::vector<std::string> core_interests = {
-        "Управление памятью и указатели",
+#include <iostream>
+#include <vector>
+#include <string>
+
+struct Developer {
+    const std::string handle = "doterskay";
+    const std::string role   = "Student & C++ Developer";
+    const std::string goal   = "Высоконагруженное серверное ПО и системная разработка";
+
+    std::vector<std::string> interests = {
+        "Указатели, динамическая память и оптимизация",
         "Сетевые протоколы (TCP/IP) и сокеты",
-        "Многопоточность и взаимодействие процессов",
-        "Архитектура ЭВМ и производительность"
+        "Многопоточность, процессы и внутренности ОС",
+        "Архитектура процессоров и низкоуровневый код"
     };
 };
+
+int main() {
+    Developer me;
+    // Изучаю не просто как писать код, а как он работает на уровне железа.
+    return 0;
+}
 ```
 
-> Студент, последовательно развивающий навыки в низкоуровневой разработке. Интересует не просто создание программ, а то, как они работают «под капотом» на уровне ОС и железа.
+---
+
+### 🎯 Направления и стек технологий
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧠 Сфера интересов</h4>
+      <ul>
+        <li><b>C++ Core:</b> современный стандарт, ООП, STL, алгоритмы</li>
+        <li><b>Network:</b> клиент-серверная архитектура, TCP/IP</li>
+        <li><b>Systems & OS:</b> потоки, процессы, системные вызовы</li>
+        <li><b>Hardware:</b> работа с памятью и устройство ЭВМ</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🛠 Языки и базы данных</h4>
+      <img src="https://skillicons.dev" alt="Languages" />
+      <br/><br/>
+      <h4>💻 Окружение и инструменты</h4>
+      <img src="https://skillicons.dev" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Направления и фокус
-
-| Направление | Что изучаю и применяю |
-| :--- | :--- |
-| **C++ Development** | Современный C++, ООП, STL, алгоритмы и структуры данных |
-| **Server-side & Network** | Клиент-серверная архитектура, TCP/IP, передача данных |
-| **System & OS** | Процессы, потоки, работа с системными ресурсами |
-| **Memory & Hardware** | Динамическая память, указатели, устройство процессоров |
-
----
-
-### 🛠 Стек и окружение
+### 📊 Активность и метрики
 
 <div align="center">
-
-**Языки и базы данных**  
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,sqlite&theme=dark" />
-
-<br/><br/>
-
-**Инструменты и ОС**  
-<br/>
-<img src="https://skillicons.dev" />
-
-</div>
-
----
-
-### 📊 Статистика GitHub
-
-<div align="center">
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
+  <!-- Стабильный виджет серии коммитов -->
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://vercel.app" width="95%" />
+  <!-- График активности за последний месяц -->
+  <img src="https://vercel.app" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Твоя рабочая змейка -->
   <img src="https://githubusercontent.com" width="95%" alt="Contribution Snake" />
 </div>
 
 ---
 
-### 📬 Связь со мной
+### 📡 Контакты
 
 <div align="center">
 
-<a href="https://t.me/playboycatty">
-  <img src="https://shields.io" />
+<a href="https://t.me">
+  <img src="https://shields.io" alt="Telegram" />
 </a>
-<a href="https://discord.com/users/tripels">
-  <img src="https://shields.io" />
+<a href="https://discord.com">
+  <img src="https://shields.io" alt="Discord" />
 </a>
-<a href="https://github.com/doterskay">
-  <img src="https://shields.io" />
+<a href="https://github.com">
+  <img src="https://shields.io" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 <sub><i>«Я выше всего, чувак. Выше меня нет никого, чувак»</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
+<!-- Нижняя неоновая волна -->
+<img src="https://vercel.app" width="100%" />
 
 </div>
