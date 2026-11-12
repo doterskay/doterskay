@@ -1,119 +1,95 @@
-<!-- Неоновая шапка с градиентом -->
 <div align="center">
-  <img src="https://vercel.app" width="100%" />
+
+# ✦ doterskay ✦
+
+**C++ Developer • Systems Programming • Network Development**
+
+*«Я выше всего, чувак. Выше меня нет никого, чувак»*
+
 </div>
-
-<!-- Живая печатающаяся строка -->
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
-
-<!-- Бейджи статуса и просмотров -->
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="Focus" />
-  <img src="https://shields.io" alt="Status" />
-</div>
-
-<br/>
-
-<!-- Блок "О себе" в стиле C++ кода -->
-### ⚡ `~/doterskay/about.cpp`
-
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-
-struct Developer {
-    const std::string handle = "doterskay";
-    const std::string role   = "Student & C++ Developer";
-    const std::string goal   = "Высоконагруженное серверное ПО и системная разработка";
-
-    std::vector<std::string> interests = {
-        "Указатели, динамическая память и оптимизация",
-        "Сетевые протоколы (TCP/IP) и сокеты",
-        "Многопоточность, процессы и внутренности ОС",
-        "Архитектура процессоров и низкоуровневый код"
-    };
-};
-
-int main() {
-    Developer me;
-    // Изучаю не просто как писать код, а как он работает на уровне железа.
-    return 0;
-}
-```
 
 ---
 
-### 🎯 Направления и стек технологий
-
+<!-- Главная карточка: слева информация, справа аниме-тян -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🧠 Сфера интересов</h4>
-      <ul>
-        <li><b>C++ Core:</b> современный стандарт, ООП, STL, алгоритмы</li>
-        <li><b>Network:</b> клиент-серверная архитектура, TCP/IP</li>
-        <li><b>Systems & OS:</b> потоки, процессы, системные вызовы</li>
-        <li><b>Hardware:</b> работа с памятью и устройство ЭВМ</li>
-      </ul>
+    <td width="62%" valign="top">
+      <h3>🌸 Обо мне</h3>
+      <p>
+        Студент направления <b>«Информационные системы и программирование»</b>. 
+        Изучаю <b>C++</b> и развиваюсь в сфере системного и сетевого программирования.
+      </p>
+      <p>
+        Меня интересует не просто создание приложений, а то, как они устроены изнутри: 
+        управление памятью, взаимодействие процессов, сетевые протоколы и архитектура компьютеров.
+      </p>
+      <table>
+        <tr>
+          <td><b>🎓 Статус</b></td>
+          <td>Студент / Начинающий C++ разработчик</td>
+        </tr>
+        <tr>
+          <td><b>🎯 Цель</b></td>
+          <td>Разработка серверного ПО на C++</td>
+        </tr>
+        <tr>
+          <td><b>⚡ Фокус</b></td>
+          <td>Производительность и низкоуровневая логика</td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🛠 Языки и базы данных</h4>
-      <img src="https://skillicons.dev" alt="Languages" />
-      <br/><br/>
-      <h4>💻 Окружение и инструменты</h4>
-      <img src="https://skillicons.dev" alt="Tools" />
+    <td width="38%" align="center" valign="middle">
+      <!-- Перетащи свою гифку/арт в редактор GitHub и вставь ссылку ниже -->
+      <img src="ССЫЛКА_НА_АНИМЕ_КАРТИНКУ" width="280" alt="Anime Aesthetic" />
+      <br/>
+      <sub><i>Keep learning. Keep building.</i></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Активность и метрики
+### 📌 Направления и сфера интересов
 
-<div align="center">
-  <!-- Стабильный виджет серии коммитов -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- График активности за последний месяц -->
-  <img src="https://vercel.app" width="95%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Твоя рабочая змейка -->
-  <img src="https://githubusercontent.com" width="95%" alt="Contribution Snake" />
-</div>
+| Направление | Ключевые темы и задачи |
+| :--- | :--- |
+| **C++ Development** | Современный C++, ООП, STL, алгоритмы и структуры данных |
+| **Server-side Development** | Серверное ПО и клиент-серверная архитектура |
+| **Network Programming** | Стек протоколов TCP/IP, сокеты и передача данных |
+| **Operating Systems** | Процессы, многопоточность и системные механизмы |
+| **Memory Management** | Указатели, динамическая память и контроль ресурсов |
+| **Computer Architecture** | Устройство процессоров и работа программ на уровне железа |
 
 ---
 
-### 📡 Контакты
+### 🛠 Стек технологий и инструменты
+
+| Категория | Технологии |
+| :--- | :--- |
+| **Языки и БД** | <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **C++** &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" align="center" /> **Python** &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **C#** &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **SQLite** |
+| **Среда и ОС** | <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **Git** &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **Linux** &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://githubusercontent.com" width="28" height="28" align="center" /> **Windows** |
+
+---
+
+### 📚 Текущий план обучения
+
+| Этап | Тема | Статус |
+| :---: | :--- | :---: |
+| **01** | Углубление знаний C++ и работа с памятью | 🔥 В процессе |
+| **02** | Объектно-ориентированное проектирование и паттерны | 🔥 В процессе |
+| **03** | Классические алгоритмы и структуры данных | 📖 Изучаю |
+| **04** | Сетевое программирование, TCP и клиент-серверные приложения | 🎯 Далее |
+
+---
+
+### 📬 Контакты и ссылки
 
 <div align="center">
 
-<a href="https://t.me">
-  <img src="https://shields.io" alt="Telegram" />
-</a>
-<a href="https://discord.com">
-  <img src="https://shields.io" alt="Discord" />
-</a>
-<a href="https://github.com">
-  <img src="https://shields.io" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<sub><i>«Я выше всего, чувак. Выше меня нет никого, чувак»</i></sub>
-
-<!-- Нижняя неоновая волна -->
-<img src="https://vercel.app" width="100%" />
+| Платформа | Профиль | Ссылка |
+| :---: | :---: | :---: |
+| **💬 Telegram** | `@playboycatty` | [Написать в Telegram](https://t.me) |
+| **🎧 Discord** | `@tripels` | [Открыть профиль Discord](https://discord.com) |
+| **🐙 GitHub** | `doterskay` | [Перейти в репозитории](https://github.com) |
 
 </div>
