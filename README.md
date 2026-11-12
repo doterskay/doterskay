@@ -1,93 +1,41 @@
-doterskay
-
 <div align="center">
 
-C++ Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=doterskay&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Developer%20%E2%80%A2%20Systems%20%E2%80%A2%20Network&descAlignY=58&descSize=18" width="100%"/>
 
-Systems Programming · Network Development · Server Software
+<a href="https://t.me/playboycatty">
+  <img src="https://img.shields.io/badge/Telegram-@playboycatty-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://discord.com/users/tripels">
+  <img src="https://img.shields.io/badge/Discord-@tripels-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://github.com/doterskay">
+  <img src="https://img.shields.io/badge/GitHub-doterskay-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Systems+Programming;Network+%26+Server+Software;Always+learning%2C+always+building" />
 
 </div>
 
-⸻
+---
 
-About me
+## 👋 About me
 
-Студент направления «Информационные системы и программирование». Изучаю C++ и развиваюсь в направлении системного программирования.
+```cpp
+class Developer {
+public:
+    std::string name    = "doterskay";
+    std::string role    = "C++ Developer";
+    std::string focus   = "Systems & Network Programming";
+    std::string goal    = "Server-side software on C++";
 
-Меня интересует не только разработка приложений, но и принципы их работы: управление памятью, взаимодействие процессов, сетевые протоколы и архитектура компьютеров.
-
-Мой текущий уровень: знаю основы C++, пишу небольшие программы и последовательно развиваю практические навыки.
-
-Профессиональная цель: разработка серверного программного обеспечения на C++.
-
-Areas of Interest
-
-Направление Интересы
-C++ Development Язык C++, производительность и архитектура программ
-Server-side Development Серверное ПО и клиент-серверная архитектура
-Network Programming TCP/IP, протоколы и передача данных
-Operating Systems Процессы, потоки и системные механизмы
-Memory Management Указатели, динамическая память и управление ресурсами
-Computer Architecture Процессоры и внутреннее устройство компьютеров
-
-Technologies & Tools
-
-Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,sqlite&theme=dark" />
-</p>
-
-Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows&theme=dark" />
-</p>
-
-Currently Learning
-
-* Углубление знаний C++.
-* Объектно-ориентированное программирование.
-* Алгоритмы и структуры данных.
-* Сетевое программирование и TCP.
-* Архитектура клиент-серверных приложений.
-* Работа с памятью и системными ресурсами.
-
-GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=doterskay&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=57606a&text_color=57606a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doterskay&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a" />
-</p>
-
-Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doterskay&theme=github-light&hide_border=true&area=true" width="100%" />
-</p>
-
-Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/doterskay/doterskay/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
-</p>
-
-⸻
-
-Contact
-
-<p>
-  <a href="https://github.com/doterskay">
-    <img src="https://img.shields.io/badge/GitHub-Profile-white?style=flat-square&logo=github&logoColor=black" />
-  </a>
-</p>
-
-⸻
-
-<div align="center">
-
-«Я выше всего, чувак. Выше меня нет никого, чувак»
-
-Keep learning. Keep building.
-
-</div>
+    std::vector<std::string> learning = {
+        "Advanced C++",
+        "OOP & Design Patterns",
+        "Algorithms & Data Structures",
+        "TCP / Socket programming",
+        "Client-Server architecture",
+        "Memory & Resource management"
+    };
+};
