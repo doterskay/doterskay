@@ -40,3 +40,10 @@ C++ · системное программирование.
 | Telegram | [@playboycatty](https://t.me/playboycatty) |
 | Discord | [@tripels](https://discord.com/users/tripels) |
 | GitHub | [doterskay](https://github.com/doterskay) |
+---
+
+<div align="center">
+
+<sub><i>«Я выше всего, чувак. Выше меня нет никого, чувак»</i></sub>
+
+</div>
